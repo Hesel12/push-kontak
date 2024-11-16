@@ -7,7 +7,7 @@
 const fs = require("fs");
 const chalk = require("chalk");
 
-global.owner = ["6285742632270"];
+global.owner = ["628994012600"];
 global.author = "https://github.com/rezadev05";
 global.packname = "push-kontak";
 global.sessionName = "WhatsApp-Session";
